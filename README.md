@@ -6,7 +6,7 @@ This is a patched version of the [OnePlus Widget](https://www.apkmirror.com/apk/
 Installing
 ==
 
-You can download an APK from the [releases](https://github.com/yunyu/onecolor-oneplus-widget/releases) section, or create one yourself.
+You can download an APK from the [releases](https://github.com/yunyu/onecolor-oneplus-widget/releases) section, or create one yourself. You will need to first uninstall the original OnePlus widget (as changing the package name breaks automatic weather updates), and ignore future updates in the Play Store if OnePlus ever adds the widget there.
 
 Patching
 ==
