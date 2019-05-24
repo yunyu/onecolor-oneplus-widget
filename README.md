@@ -1,7 +1,9 @@
 OneColor for OnePlus Widget
 ==
 
-This is a patched version of the [OnePlus Widget](https://www.apkmirror.com/apk/oneplus-ltd/oneplus-widget/) that removes the red accent color for the "1" digit.
+This is a patched version of the [OnePlus Widget](https://www.apkmirror.com/apk/oneplus-ltd/oneplus-widget/) that removes the red accent color for the "1" digit:
+
+![](https://i.imgur.com/8TklnYz.png)
 
 Installing
 ==
